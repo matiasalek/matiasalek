@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Matias Aleksandrowicz</h1>
 <h3 align="center">Data/Software Engineer from Argentina.</h3>
 
-- 🌱 I’m currently learning **SpringBoot** and **Blockchain development in Go**.
+- 🌱 I’m currently learning:
+-  **SpringBoot**
+-  **Blockchain development in Go**
+-  **C & C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
