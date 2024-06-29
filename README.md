@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning:
 -  **SpringBoot**
--  **Blockchain development in Go**
 -  **C & C++**
 
 <h3 align="left">Connect with me:</h3>
