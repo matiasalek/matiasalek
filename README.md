@@ -2,7 +2,8 @@
 <h3 align="center">I'm a Data/Software Engineer from Argentina</h3>
 
 - 🌱 I’m currently learning:
--  **SpringBoot**
+-  **Java & Spring Boot**
+-  **Typescript & Angular**
 -  **C & C++**
 -  **Go**
 -  **Neovim**
