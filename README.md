@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matias Aleksandrowicz</h1>
 <h3 align="center">I'm a Data/Software Engineer from Argentina</h3>
 
-- 🌱 I’m ~~currently~~ constantly learning:
+- 🌱 I’m currently learning:
 -  **Java & Spring Boot**
 -  **Go**
 -  **Javascript/Typescript & React**
