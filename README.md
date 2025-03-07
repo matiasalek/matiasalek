@@ -4,7 +4,7 @@
 - 🌱 I’m ~~currently~~ constantly learning:
 -  **Java & Spring Boot**
 -  **Go**
--  **Javascript & React**
+-  **Javascript/Typescript & React**
 -  **C**
 -  **Neovim (btw)**
 
