@@ -4,9 +4,8 @@
 - 🌱 I’m currently learning:
 -  **Java & Spring Boot**
 -  **Go**
--  **Javascript/Typescript & React**
+-  **Typescript & React**
 -  **C**
--  **Neovim (btw)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
