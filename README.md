@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Matias Aleksandrowicz</h1>
 <h3 align="center">I'm a Data/Software Engineer from Argentina</h3>
 
+-  **Python**
 -  **Java & Spring Boot**
 -  **Go**
 -  **Typescript**
--  **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
