@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matias Aleksandrowicz</h1>
-<h3 align="center">I'm a Data/Software Engineer from Argentina</h3>
+<h3 align="center">I'm a Data/Backend Engineer from Argentina</h3>
 
 -  **Python**
 -  **Java & Spring Boot**
